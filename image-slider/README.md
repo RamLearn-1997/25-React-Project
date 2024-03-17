@@ -12,4 +12,4 @@ In this project, I've created an Image Slider using React, showcasing a seamless
 
 # output
 
-![]()
+![imageslider](https://raw.githubusercontent.com/RamLearn-1997/25-React-Project/main/image-slider/src/assets/imageslider.png)

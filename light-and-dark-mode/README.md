@@ -16,4 +16,8 @@ making our website a more inclusive space for all users.
 
 ### output
 
-![]()
+![light-mode](https://raw.githubusercontent.com/RamLearn-1997/25-React-Project/main/light-and-dark-mode/src/assets/Studio%20light.png)
+*Light Mode*
+
+![dark-mode](https://raw.githubusercontent.com/RamLearn-1997/25-React-Project/main/light-and-dark-mode/src/assets/Studio%20dark.png)
+*Dark Mode*

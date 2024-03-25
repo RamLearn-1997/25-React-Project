@@ -12,4 +12,4 @@ solution to fetch data dynamically from a URL as you scroll.
 
 ### output
 
-![]()
+![customscrollindicator](https://raw.githubusercontent.com/RamLearn-1997/25-React-Project/main/scroll-indicator/src/assets/Screenshot%20(338).png)
